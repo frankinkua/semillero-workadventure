@@ -313,6 +313,11 @@
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"Press SPACE or touch here to open a custom website"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"string",
+                         "value":"openTab"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -363,7 +368,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":""
+                         "value":"1"
                         }, 
                         {
                          "name":"openWebsite",
