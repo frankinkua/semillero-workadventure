@@ -333,7 +333,7 @@
                  "type":"",
                  "visible":true,
                  "width":93.7162209047986,
-                 "x":483.919325398621,
+                 "x":484.919325398621,
                  "y":14.0269116471316
                 }, 
                 {
@@ -349,7 +349,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"https:\/\/meet.google.com\/kmm-ydjp-csm"
                         }, 
                         {
                          "name":"jitsiTrigger",
