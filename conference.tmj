@@ -361,9 +361,9 @@
                  "name":"website",
                  "properties":[
                         {
-                         "name":"dynamic",
-                         "type":"bool",
-                         "value":true
+                         "name":"openTab",
+                         "type":"string",
+                         "value":""
                         }, 
                         {
                          "name":"openWebsite",
