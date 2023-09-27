@@ -596,8 +596,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":2956,
-         "source":"tilesets\/inkua-logo.tsx"
+         "image":"..\/..\/..\/Pictures\/inkua\/inkua-small.png",
+         "imageheight":32,
+         "imagewidth":64,
+         "margin":0,
+         "name":"inkua-small",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
