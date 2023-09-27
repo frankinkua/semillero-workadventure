@@ -300,6 +300,11 @@
                          "value":"https:\/\/meet.google.com\/kmm-ydjp-csm"
                         }, 
                         {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen; microphone; camera"
+                        }, 
+                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -313,7 +318,7 @@
                  "type":"area",
                  "visible":true,
                  "width":96,
-                 "x":256,
+                 "x":257,
                  "y":96
                 }, 
                 {
@@ -351,36 +356,26 @@
                  "y":128
                 }, 
                 {
-                 "height":71.6123,
+                 "height":96,
                  "id":24,
                  "name":"website",
                  "properties":[
                         {
                          "name":"dynamic",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/inkua.de\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE or touch here to open a custom website"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":598,
-                 "y":336.19385
+                 "width":128,
+                 "x":576,
+                 "y":320
                 }],
          "opacity":1,
          "type":"objectgroup",
