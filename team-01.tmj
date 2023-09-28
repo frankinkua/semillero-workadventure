@@ -169,7 +169,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Hacer"
+                         "value":"Click Aqui o Espacio para abrir el archivo"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -186,7 +186,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/meet.google.com\/kmm-ydjp-csm"
+                         "value":"https:\/\/meet.jit.si\/inkua-team-01"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -196,7 +196,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE or touch here to open the file"
+                         "value":"Click Aqui o Espacio para iniciar una reuni\u00f3n"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -204,6 +204,33 @@
                  "width":125.333333333333,
                  "x":34.6666666666667,
                  "y":256.666666666667
+                }, 
+                {
+                 "height":95.3333,
+                 "id":39,
+                 "name":"website",
+                 "properties":[
+                        {
+                         "name":"openTab",
+                         "type":"string",
+                         "value":"https:\/\/meet.jit.si\/inkua-team-01"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Click Aqui o Espacio para iniciar una reuni\u00f3n"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":125.333,
+                 "x":192,
+                 "y":256
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -238,7 +265,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":39,
+ "nextobjectid":40,
  "orientation":"orthogonal",
  "properties":[
         {
