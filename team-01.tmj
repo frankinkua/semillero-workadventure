@@ -235,6 +235,7 @@
                     {
                      "bold":true,
                      "color":"#1c476d",
+                     "kerning":false,
                      "pixelsize":18,
                      "text":"TEAM-01",
                      "wrap":true
@@ -244,6 +245,23 @@
                  "width":96,
                  "x":86,
                  "y":36
+                }, 
+                {
+                 "height":32,
+                 "id":42,
+                 "name":"from-office",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":224,
+                 "y":96
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -278,7 +296,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":42,
+ "nextobjectid":43,
  "orientation":"orthogonal",
  "properties":[
         {

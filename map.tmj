@@ -350,7 +350,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"team-01.tmj"
+                         "value":"team-01.tmj#from-office"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -367,7 +367,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"team-02.tmj"
+                         "value":"team-02.tmj#from-office"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -489,6 +489,27 @@
                  "width":32,
                  "x":702,
                  "y":256
+                }, 
+                {
+                 "height":32,
+                 "id":38,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "halign":"center",
+                     "kerning":false,
+                     "pixelsize":27,
+                     "text":"02",
+                     "valign":"center"
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":832,
+                 "y":0
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -571,7 +592,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":38,
+ "nextobjectid":39,
  "orientation":"orthogonal",
  "properties":[
         {
