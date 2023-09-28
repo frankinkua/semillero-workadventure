@@ -343,6 +343,23 @@
                  "y":544
                 }, 
                 {
+                 "height":1.33333,
+                 "id":23,
+                 "name":"Preguntas",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":false
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":0.666667,
+                 "x":574.666666666667,
+                 "y":174
+                }, 
+                {
                  "height":64,
                  "id":24,
                  "name":"door",
@@ -417,6 +434,7 @@
                  "rotation":0,
                  "text":
                     {
+                     "bold":true,
                      "color":"#ffffff",
                      "fontfamily":"Sans Serif",
                      "halign":"center",
@@ -438,6 +456,7 @@
                  "rotation":0,
                  "text":
                     {
+                     "bold":true,
                      "color":"#ffffff",
                      "fontfamily":"Sans Serif",
                      "halign":"center",
