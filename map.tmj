@@ -426,6 +426,40 @@
                  "width":32,
                  "x":832,
                  "y":32
+                }, 
+                {
+                 "height":32,
+                 "id":26,
+                 "name":"from-conference",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":64,
+                 "y":352
+                }, 
+                {
+                 "height":64,
+                 "id":27,
+                 "name":"to-conference",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"conference.tmj#from-office"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":0,
+                 "y":320
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -508,7 +542,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":26,
+ "nextobjectid":28,
  "orientation":"orthogonal",
  "properties":[
         {

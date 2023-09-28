@@ -176,6 +176,31 @@
          "id":52,
          "layers":[
                 {
+                 "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 1827, 0, 0, 0, 0, 0, 0, 0, 1828, 1829, 1830, 1831, 1832, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+                 "height":14,
+                 "id":44,
+                 "name":"furniture1",
+                 "opacity":1,
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":24,
+                 "x":0,
+                 "y":0
+                }, 
+                {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 834, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 859, 0, 0, 0, 0, 0, 831, 832, 833, 0, 0,
                     0, 1559, 0, 0, 0, 0, 0, 0, 1652, 1653, 1654, 0, 1557, 1560, 1560, 1560, 1558, 0, 0, 856, 857, 858, 0, 0,
@@ -192,7 +217,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":14,
                  "id":1,
-                 "name":"furniture1",
+                 "name":"furniture2",
                  "opacity":1,
                  "type":"tilelayer",
                  "visible":true,
@@ -217,7 +242,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":14,
                  "id":33,
-                 "name":"furniture2",
+                 "name":"furniture3",
                  "opacity":1,
                  "type":"tilelayer",
                  "visible":true,
@@ -237,6 +262,65 @@
          "id":2,
          "name":"floorLayer",
          "objects":[
+                {
+                 "height":320,
+                 "id":18,
+                 "name":"jitsiConference",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Conference666"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":219.090909090909,
+                 "x":32,
+                 "y":96
+                }, 
+                {
+                 "height":71.612250966399,
+                 "id":19,
+                 "name":"website",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/meet.google.com\/kmm-ydjp-csm"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen; microphone; camera"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE or touch here to open a custom website"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":96,
+                 "x":257,
+                 "y":96
+                }, 
                 {
                  "height":96,
                  "id":22,
@@ -270,6 +354,40 @@
                  "width":32,
                  "x":640,
                  "y":128
+                }, 
+                {
+                 "height":96,
+                 "id":24,
+                 "name":"website",
+                 "properties":[
+                        {
+                         "name":"openTab",
+                         "type":"string",
+                         "value":"https:\/\/meet.google.com\/kmm-ydjp-csm"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":128,
+                 "x":576,
+                 "y":320
+                }, 
+                {
+                 "height":96,
+                 "id":25,
+                 "name":"website",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/document\/d\/1SAmuPTAMf6cg9E9qo6xSi3_5M6EADVyCSqTviKt969E\/edit?usp=sharing"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":64,
+                 "x":448,
+                 "y":320
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -281,7 +399,40 @@
          "draworder":"topdown",
          "id":61,
          "name":"configuration",
-         "objects":[],
+         "objects":[
+                {
+                 "height":0,
+                 "id":20,
+                 "name":"websiteURL",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"https:\/\/meet.google.com\/kmm-ydjp-csm"
+                        }, 
+                        {
+                         "name":"description",
+                         "type":"string",
+                         "value":"Test the website to embed with an iframe tester like https:\/\/iframetester.com\/"
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Website URL"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":false
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":304.52245019328,
+                 "y":62.873476063039
+                }],
          "opacity":1,
          "properties":[
                 {
