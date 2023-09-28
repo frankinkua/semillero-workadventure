@@ -82,7 +82,7 @@
         }, 
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 142, 143, 144, 0, 1285, 0, 19, 20, 149, 150, 151, 0,
+            0, 2950, 2951, 142, 143, 144, 0, 1285, 0, 19, 20, 149, 150, 151, 0,
             0, 0, 88, 152, 153, 154, 0, 1310, 0, 31, 32, 159, 160, 161, 0,
             0, 0, 100, 162, 163, 164, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -119,7 +119,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#team-01"
+                         "value":"map.tmj#from-team"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -129,30 +129,7 @@
                  "y":32
                 }, 
                 {
-                 "height":35.1302083333333,
-                 "id":36,
-                 "name":"boardtext",
-                 "rotation":0,
-                 "text":
-                    {
-                     "bold":true,
-                     "color":"#032761",
-                     "fontfamily":"Sans Serif",
-                     "halign":"center",
-                     "pixelsize":13,
-                     "text":"ARCHIVO EQUIPO",
-                     "underline":true,
-                     "valign":"center",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":66.5260416666667,
-                 "x":104.140625,
-                 "y":65.7682291666666
-                }, 
-                {
-                 "height":64.6666666666667,
+                 "height":96.6666666666667,
                  "id":37,
                  "name":"team-file",
                  "properties":[
@@ -174,12 +151,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":128,
-                 "x":64,
+                 "width":192,
+                 "x":32,
                  "y":95.3333333333333
                 }, 
                 {
-                 "height":95.3333333333333,
+                 "height":96,
                  "id":38,
                  "name":"website",
                  "properties":[
@@ -196,14 +173,14 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Click Aqui o Espacio para iniciar una reuni\u00f3n"
+                         "value":"Click Aqui \ud83d\udc46 o Espacio para iniciar una reuni\u00f3n"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
                  "width":125.333333333333,
                  "x":34.6666666666667,
-                 "y":256.666666666667
+                 "y":256
                 }, 
                 {
                  "height":95.3333,
@@ -231,6 +208,47 @@
                  "width":125.333,
                  "x":192,
                  "y":256
+                }, 
+                {
+                 "height":32,
+                 "id":40,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#1c476d",
+                     "halign":"center",
+                     "text":".DOC",
+                     "underline":true,
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":78.5,
+                 "x":97.5,
+                 "y":64.5
+                }, 
+                {
+                 "height":32,
+                 "id":41,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#1c476d",
+                     "halign":"center",
+                     "text":"TEAM-01",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":96,
+                 "x":96,
+                 "y":32
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -265,7 +283,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":40,
+ "nextobjectid":42,
  "orientation":"orthogonal",
  "properties":[
         {

@@ -469,6 +469,23 @@
                  "width":96,
                  "x":672,
                  "y":224
+                }, 
+                {
+                 "height":96,
+                 "id":37,
+                 "name":"from-team",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":702,
+                 "y":256
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -551,7 +568,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":37,
+ "nextobjectid":38,
  "orientation":"orthogonal",
  "properties":[
         {
