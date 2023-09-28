@@ -163,7 +163,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/meet.jit.si\/inkua-team-01"
+                         "value":"https:\/\/meet.jit.si\/inkua-team-02"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -190,7 +190,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/meet.jit.si\/inkua-team-01"
+                         "value":"https:\/\/meet.jit.si\/inkua-team-02"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -236,7 +236,7 @@
                      "color":"#1c476d",
                      "kerning":false,
                      "pixelsize":18,
-                     "text":"TEAM-01",
+                     "text":"TEAM-02",
                      "wrap":true
                     },
                  "type":"",
