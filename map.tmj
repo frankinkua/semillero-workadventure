@@ -412,50 +412,6 @@
                 }, 
                 {
                  "height":32,
-                 "id":28,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "bold":true,
-                     "color":"#ffffff",
-                     "fontfamily":"Sans Serif",
-                     "halign":"center",
-                     "pixelsize":13,
-                     "text":"TEAM-01",
-                     "valign":"center",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":96,
-                 "x":736,
-                 "y":0
-                }, 
-                {
-                 "height":32,
-                 "id":31,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "bold":true,
-                     "color":"#ffffff",
-                     "fontfamily":"Sans Serif",
-                     "halign":"center",
-                     "pixelsize":13,
-                     "text":"TEAM-02",
-                     "valign":"center",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":96,
-                 "x":800,
-                 "y":0
-                }, 
-                {
-                 "height":32,
                  "id":32,
                  "name":"",
                  "rotation":0,
@@ -473,6 +429,46 @@
                  "width":96,
                  "x":416,
                  "y":256
+                }, 
+                {
+                 "height":32,
+                 "id":34,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "halign":"center",
+                     "text":"01",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":768,
+                 "y":0
+                }, 
+                {
+                 "height":32,
+                 "id":36,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#133c7f",
+                     "halign":"center",
+                     "text":"EQUIPOS",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":96,
+                 "x":672,
+                 "y":224
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -555,7 +551,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":34,
+ "nextobjectid":37,
  "orientation":"orthogonal",
  "properties":[
         {
