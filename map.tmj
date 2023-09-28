@@ -343,65 +343,14 @@
                  "y":544
                 }, 
                 {
-                 "height":1.33333333333334,
-                 "id":20,
-                 "name":"Preguntas",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":false
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":0,
-                 "x":384,
-                 "y":174
-                }, 
-                {
-                 "height":30.666665,
-                 "id":22,
-                 "name":"Sala de Eventos",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":false
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":0.666667,
-                 "x":36.9999998333334,
-                 "y":289.333335
-                }, 
-                {
-                 "height":1.33333,
-                 "id":23,
-                 "name":"Preguntas",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":false
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":0.666667,
-                 "x":574.666666666667,
-                 "y":174
-                }, 
-                {
                  "height":64,
                  "id":24,
-                 "name":"TEAM-01",
+                 "name":"door",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"{{{ Name }}}.tmj"
+                         "value":"team-01.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -413,12 +362,12 @@
                 {
                  "height":64,
                  "id":25,
-                 "name":"TEAM-02",
+                 "name":"door",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"{{{ Name }}}.tmj"
+                         "value":"team-02.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -460,6 +409,48 @@
                  "width":32,
                  "x":0,
                  "y":320
+                }, 
+                {
+                 "height":32,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Sans Serif",
+                     "halign":"center",
+                     "pixelsize":13,
+                     "text":"TEAM-01",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":96,
+                 "x":736,
+                 "y":0
+                }, 
+                {
+                 "height":32,
+                 "id":31,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Sans Serif",
+                     "halign":"center",
+                     "pixelsize":13,
+                     "text":"TEAM-02",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":96,
+                 "x":800,
+                 "y":0
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -542,7 +533,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":28,
+ "nextobjectid":32,
  "orientation":"orthogonal",
  "properties":[
         {
