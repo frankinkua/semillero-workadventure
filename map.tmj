@@ -420,6 +420,7 @@
                      "bold":true,
                      "color":"#133c7f",
                      "halign":"center",
+                     "pixelsize":20,
                      "text":"AYUDA",
                      "valign":"center",
                      "wrap":true
@@ -440,6 +441,7 @@
                      "bold":true,
                      "color":"#ffffff",
                      "halign":"center",
+                     "pixelsize":27,
                      "text":"01",
                      "valign":"center",
                      "wrap":true
@@ -460,6 +462,7 @@
                      "bold":true,
                      "color":"#133c7f",
                      "halign":"center",
+                     "pixelsize":20,
                      "text":"EQUIPOS",
                      "valign":"center",
                      "wrap":true

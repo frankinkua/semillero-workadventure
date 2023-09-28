@@ -216,19 +216,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
                      "color":"#1c476d",
-                     "halign":"center",
                      "text":".DOC",
-                     "underline":true,
-                     "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":78.5,
-                 "x":97.5,
-                 "y":64.5
+                 "x":118.166666666667,
+                 "y":69.1666666666667
                 }, 
                 {
                  "height":32,
@@ -239,16 +235,15 @@
                     {
                      "bold":true,
                      "color":"#1c476d",
-                     "halign":"center",
+                     "pixelsize":18,
                      "text":"TEAM-01",
-                     "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":96,
-                 "x":96,
-                 "y":32
+                 "x":86,
+                 "y":36
                 }],
          "opacity":1,
          "type":"objectgroup",
