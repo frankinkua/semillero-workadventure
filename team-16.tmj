@@ -119,7 +119,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-team-01"
+                         "value":"map.tmj#from-team-16"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -136,7 +136,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/document\/d\/1SAmuPTAMf6cg9E9qo6xSi3_5M6EADVyCSqTviKt969E\/edit"
+                         "value":"https:\/\/drive.google.com\/open?id=1OyYtUIq-7ZqTupGmOWU06GNhfWL4sYYPKbiYQoz_YLo"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -163,7 +163,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/meet.jit.si\/inkua-team-01"
+                         "value":"https:\/\/meet.jit.si\/inkua-team-16"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -190,7 +190,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/meet.jit.si\/inkua-team-01"
+                         "value":"https:\/\/meet.jit.si\/inkua-team-16"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -236,7 +236,7 @@
                      "color":"#1c476d",
                      "kerning":false,
                      "pixelsize":18,
-                     "text":"TEAM-01",
+                     "text":"TEAM-16",
                      "wrap":true
                     },
                  "type":"",
