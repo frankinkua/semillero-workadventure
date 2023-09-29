@@ -158,7 +158,7 @@
                 {
                  "height":96,
                  "id":38,
-                 "name":"website",
+                 "name":"jitsi",
                  "properties":[
                         {
                          "name":"openTab",
@@ -185,7 +185,7 @@
                 {
                  "height":95.3333,
                  "id":39,
-                 "name":"website",
+                 "name":"jitsi",
                  "properties":[
                         {
                          "name":"openTab",
