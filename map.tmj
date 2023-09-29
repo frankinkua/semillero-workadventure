@@ -305,7 +305,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":224,
+                 "height":216,
                  "id":14,
                  "name":"Silent Zone",
                  "properties":[
@@ -319,7 +319,7 @@
                  "visible":true,
                  "width":864,
                  "x":0,
-                 "y":480
+                 "y":488
                 }, 
                 {
                  "height":77,
